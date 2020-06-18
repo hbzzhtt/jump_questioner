@@ -1,0 +1,66 @@
+2020-06-18T03:42:50.186Z - normal: Load ~/.CocosCreator/settings.json
+2020-06-18T03:42:50.191Z - normal: checking language setting...
+2020-06-18T03:42:50.192Z - normal: Language: zh
+2020-06-18T03:42:51.740Z - success: protocol editor-framework registered
+2020-06-18T03:42:51.740Z - success: protocol app registered
+2020-06-18T03:42:51.740Z - success: protocol theme registered
+2020-06-18T03:42:51.740Z - success: protocol profile registered
+2020-06-18T03:42:51.740Z - success: protocol packages registered
+2020-06-18T03:42:51.740Z - success: protocol unpack registerred
+2020-06-18T03:42:51.741Z - success: protocol disable-commonjs registerred
+2020-06-18T03:42:51.878Z - normal: connected!
+2020-06-18T03:42:51.881Z - normal: Check project C:\Users\Administrator\Desktop\start_project\start_project
+2020-06-18T03:42:51.885Z - normal: Initializing Cocos2d
+2020-06-18T03:42:52.263Z - normal: Initializing Asset Database
+2020-06-18T03:42:52.306Z - success: protocol uuid registerred
+2020-06-18T03:42:52.306Z - success: protocol db registerred
+2020-06-18T03:42:52.306Z - success: protocol thumbnail registerred
+2020-06-18T03:42:52.306Z - normal: Loading editor/builtin packages
+2020-06-18T03:42:52.332Z - success: anysdk loaded
+2020-06-18T03:42:52.483Z - success: assets loaded
+2020-06-18T03:42:52.485Z - success: builder loaded
+2020-06-18T03:42:52.488Z - success: hierarchy loaded
+2020-06-18T03:42:52.491Z - success: inspector loaded
+2020-06-18T03:42:52.492Z - success: keystore loaded
+2020-06-18T03:42:52.495Z - success: node-library loaded
+2020-06-18T03:42:52.497Z - success: package-asset loaded
+2020-06-18T03:42:52.499Z - success: preferences loaded
+2020-06-18T03:42:52.515Z - success: project-importer loaded
+2020-06-18T03:42:52.518Z - success: project-settings loaded
+2020-06-18T03:42:52.520Z - success: ui-kit loaded
+2020-06-18T03:42:52.522Z - success: ui-grid loaded
+2020-06-18T03:42:52.525Z - success: scene loaded
+2020-06-18T03:42:52.527Z - success: sprite-editor loaded
+2020-06-18T03:42:52.530Z - success: store loaded
+2020-06-18T03:42:52.535Z - success: timeline loaded
+2020-06-18T03:42:52.535Z - normal: Loading builtin packages
+2020-06-18T03:42:52.538Z - success: asset-db-debugger loaded
+2020-06-18T03:42:52.540Z - success: code-editor loaded
+2020-06-18T03:42:52.541Z - success: color-picker loaded
+2020-06-18T03:42:52.544Z - success: console loaded
+2020-06-18T03:42:52.546Z - success: package-manager loaded
+2020-06-18T03:42:52.552Z - success: sdkbox loaded
+2020-06-18T03:42:52.555Z - success: tester loaded
+2020-06-18T03:42:52.557Z - success: ui-kit-preview-extra loaded
+2020-06-18T03:42:52.559Z - success: ui-kit-preview loaded
+2020-06-18T03:42:52.560Z - success: ui-tree loaded
+2020-06-18T03:42:53.702Z - normal: Initializing project C:\Users\Administrator\Desktop\start_project\start_project
+2020-06-18T03:42:53.706Z - normal: Loading packages
+2020-06-18T03:42:53.710Z - normal: Watching packages
+2020-06-18T03:42:53.726Z - normal: Run Application
+2020-06-18T03:42:54.271Z - success: preview server running at http://localhost:7456
+2020-06-18T03:42:59.404Z - normal: 1.5.2
+2020-06-18T03:42:59.712Z - warn: Script attached to "leftButton" in scene "game.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/leftButton"
+Asset url: "db://assets/game.fire"
+Script UUID: "8106b2db-a6ed-4a47-983f-aad058c21620"
+Class ID: "8106bLbpu1KR5g/qtBYwhYg"
+
+2020-06-18T03:42:59.713Z - warn: Script attached to "rightButton" in scene "game.fire" is missing or invalid. Detailed information:
+Node path: "Canvas/rightButton"
+Asset url: "db://assets/game.fire"
+Script UUID: "ee9c86ee-ce48-4787-93dd-ff27a1c0cc80"
+Class ID: "ee9c8buzkhHh5Pd/yehwMyA"
+
+2020-06-18T03:42:59.794Z - normal: ScaleX != ScaleY. Don't know which one to return
+2020-06-18T03:42:59.794Z - normal: ScaleX != ScaleY. Don't know which one to return
